@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "farmgatechecklist", "farmgatechecklist\farmgatechecklist.csproj", "{FFCA881D-5949-47F7-BD2A-6C2EB9DF6EB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFCA881D-5949-47F7-BD2A-6C2EB9DF6EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFCA881D-5949-47F7-BD2A-6C2EB9DF6EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFCA881D-5949-47F7-BD2A-6C2EB9DF6EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFCA881D-5949-47F7-BD2A-6C2EB9DF6EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {064430FF-4559-42FC-AD6A-6B3E60876A14}
+	EndGlobalSection
+EndGlobal
